@@ -21,8 +21,11 @@ li {
 }
 
 a {
-  margin-left: 80vw;
   text-decoration-line: none;
+}
+
+a.navigation {
+  margin-left: 80vw;
 }
 
 img {
